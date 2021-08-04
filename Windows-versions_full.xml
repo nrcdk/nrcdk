@@ -2,14 +2,14 @@
     <Windows>
         <Version>21H1</Version>
         <OSbuild>19043</OSbuild>
-        <EOSPRO>2022-12-13</EOSPRO>
-        <EOSENT>2022-12-13</EOSENT>
+        <EOSPRO>13-12-2022</EOSPRO>
+        <EOSENT>13-12-2022</EOSENT>
     </Windows>
     <Windows>
         <Version>20H2</Version>
         <OSbuild>19042</OSbuild>
-        <EOSPRO>2022-05-10</EOSPRO>
-        <EOSENT>2023-05-09</EOSENT>
+        <EOSPRO>10-05-2022</EOSPRO>
+        <EOSENT>09-05-2023</EOSENT>
     </Windows>
     <Windows>
         <Version>2004</Version>
